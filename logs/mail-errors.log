@@ -1,0 +1,111 @@
+[2026-09-25 06:09:16] Failed sending to aranyselvarasa8@gmail.com
+<<< 220 smtp.gmail.com ESMTP 5a478bee46e88-341460f5166sm3721559eec.29 - gsmtp
+>>> EHLO localhost
+<<< 250-smtp.gmail.com at your service, [2402:4000:23a0:5f93:396b:cc1:3db5:46ba]
+<<< 250-SIZE 35882577
+<<< 250-8BITMIME
+<<< 250-STARTTLS
+<<< 250-ENHANCEDSTATUSCODES
+<<< 250-PIPELINING
+<<< 250-CHUNKING
+<<< 250 SMTPUTF8
+>>> STARTTLS
+<<< 220 2.0.0 Ready to start TLS
+ERROR: TLS negotiation failed
+
+[2026-09-25 06:10:25] Failed sending to aaranyselvarasa@gmail.com
+<<< 220 smtp.gmail.com ESMTP 5a478bee46e88-341459234a1sm3775655eec.24 - gsmtp
+>>> EHLO localhost
+<<< 250-smtp.gmail.com at your service, [2402:4000:23a0:5f93:396b:cc1:3db5:46ba]
+<<< 250-SIZE 35882577
+<<< 250-8BITMIME
+<<< 250-STARTTLS
+<<< 250-ENHANCEDSTATUSCODES
+<<< 250-PIPELINING
+<<< 250-CHUNKING
+<<< 250 SMTPUTF8
+>>> STARTTLS
+<<< 220 2.0.0 Ready to start TLS
+>>> EHLO localhost
+<<< 250-smtp.gmail.com at your service, [2402:4000:23a0:5f93:396b:cc1:3db5:46ba]
+<<< 250-SIZE 35882577
+<<< 250-8BITMIME
+<<< 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+<<< 250-ENHANCEDSTATUSCODES
+<<< 250-PIPELINING
+<<< 250-CHUNKING
+<<< 250 SMTPUTF8
+>>> AUTH LOGIN
+<<< 334 VXNlcm5hbWU6
+>>> YXJhbnlzZWx2YXJhc2E4QGdtYWlsLmNvbQ==
+<<< 334 UGFzc3dvcmQ6
+>>> UkVQTEFDRV9XSVRIXzE2X0NIQVJfQVBQX1BBU1NXT1JE
+<<< 535-5.7.8 Username and Password not accepted. For more information, go to
+<<< 535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-341459234a1sm3775655eec.24 - gsmtp
+ERROR: Expected 235, got: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-341459234a1sm3775655eec.24 - gsmtp
+
+[2026-09-25 06:41:04] Failed sending to aranyiniya@gmail.com
+<<< 220 smtp.gmail.com ESMTP 5a478bee46e88-34145d0fc9fsm4042016eec.25 - gsmtp
+>>> EHLO localhost
+<<< 250-smtp.gmail.com at your service, [2402:4000:23a0:5f93:396b:cc1:3db5:46ba]
+<<< 250-SIZE 35882577
+<<< 250-8BITMIME
+<<< 250-STARTTLS
+<<< 250-ENHANCEDSTATUSCODES
+<<< 250-PIPELINING
+<<< 250-CHUNKING
+<<< 250 SMTPUTF8
+>>> STARTTLS
+<<< 220 2.0.0 Ready to start TLS
+>>> EHLO localhost
+<<< 250-smtp.gmail.com at your service, [2402:4000:23a0:5f93:396b:cc1:3db5:46ba]
+<<< 250-SIZE 35882577
+<<< 250-8BITMIME
+<<< 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+<<< 250-ENHANCEDSTATUSCODES
+<<< 250-PIPELINING
+<<< 250-CHUNKING
+<<< 250 SMTPUTF8
+>>> AUTH LOGIN
+<<< 334 VXNlcm5hbWU6
+>>> YXJhbnlzZWx2YXJhc2E4QGdtYWlsLmNvbQ==
+<<< 334 UGFzc3dvcmQ6
+>>> YWFyYW55MDUwNg==
+<<< 535-5.7.8 Username and Password not accepted. For more information, go to
+<<< 535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34145d0fc9fsm4042016eec.25 - gsmtp
+ERROR: Expected 235, got: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34145d0fc9fsm4042016eec.25 - gsmtp
+
+[2026-09-25 06:48:59] Failed sending to jananydiaz@gmail.com
+<<< 220 smtp.gmail.com ESMTP 5a478bee46e88-34144e4a6b9sm3478119eec.18 - gsmtp
+>>> EHLO localhost
+<<< 250-smtp.gmail.com at your service, [2402:4000:23a0:5f93:396b:cc1:3db5:46ba]
+<<< 250-SIZE 35882577
+<<< 250-8BITMIME
+<<< 250-STARTTLS
+<<< 250-ENHANCEDSTATUSCODES
+<<< 250-PIPELINING
+<<< 250-CHUNKING
+<<< 250 SMTPUTF8
+>>> STARTTLS
+<<< 220 2.0.0 Ready to start TLS
+>>> EHLO localhost
+<<< 250-smtp.gmail.com at your service, [2402:4000:23a0:5f93:396b:cc1:3db5:46ba]
+<<< 250-SIZE 35882577
+<<< 250-8BITMIME
+<<< 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+<<< 250-ENHANCEDSTATUSCODES
+<<< 250-PIPELINING
+<<< 250-CHUNKING
+<<< 250 SMTPUTF8
+>>> AUTH LOGIN
+<<< 334 VXNlcm5hbWU6
+>>> YXJhbnlzZWx2YXJhc2E4QGdtYWlsLmNvbQ==
+<<< 334 UGFzc3dvcmQ6
+>>> YWFyYW55MDUwNg==
+<<< 535-5.7.8 Username and Password not accepted. For more information, go to
+<<< 535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34144e4a6b9sm3478119eec.18 - gsmtp
+ERROR: Expected 235, got: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34144e4a6b9sm3478119eec.18 - gsmtp
+
